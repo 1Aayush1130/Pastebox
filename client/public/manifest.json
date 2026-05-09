@@ -1,0 +1,9 @@
+{
+  "short_name": "PasteBox",
+  "name": "PasteBox - File Sharing",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f0f1a",
+  "background_color": "#0f0f1a"
+}
