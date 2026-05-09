@@ -159,6 +159,10 @@ APP_URL=http://localhost:5000
 npm run dev
 ```
 
+Live At - https://pastebox-mpx1.onrender.com
+
+---
+
 This starts:
 - **Backend** at `http://localhost:5000`
 - **Frontend** at `http://localhost:3000`
